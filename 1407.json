@@ -1,0 +1,78 @@
+{
+  "name": "SCUMBAG$ #1407",
+  "symbol": "SCUMBAGS",
+  "description": "A generative collection of 3,000 Unique Money Bag Characters",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "http://scumbags.io/",
+  "edition": 1407,
+  "attributes": [
+    {
+      "trait_type": "Bg",
+      "value": "PurpleBrick"
+    },
+    {
+      "trait_type": "Shadow",
+      "value": "Shadow"
+    },
+    {
+      "trait_type": "Glow",
+      "value": "None"
+    },
+    {
+      "trait_type": "Bag",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "None"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Splat",
+      "value": "SPLAT GREEN"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "CHOMP"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "CRAZY EYES"
+    },
+    {
+      "trait_type": "Prop",
+      "value": "None"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4ejehx7PJVYpLcfivsshBTYsnvr1ni9TPHZGcCkRKBQb",
+        "share": 65
+      },
+      {
+        "address": "9j3pc3gtBDFc8nNPNHjKrVfVewfxbrFm4doVwFoVP5Bu",
+        "share": 25
+      },
+      {
+        "address": "HN2VxERebRDfAL8S8WCHW96mfNY6XpTvbqDiuLpckmLm",
+        "share": 5
+      },
+      {
+        "address": "2L5XkJdPfhsetVCvdSuxrS9bW73fAbBrsNJuTJxA75C3",
+        "share": 5
+      }
+    ]
+  }
+}
