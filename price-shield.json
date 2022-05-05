@@ -1,0 +1,42 @@
+{
+  "name": "PriceShield",
+  "symbol": "SCUMBAGS",
+  "description": "This Scumbag$ token has been flagged by the Price Shield for listing below Mint price. Please remove listing and create a support ticket in the Scumbag$ discord to have this token reverted.",
+  "seller_fee_basis_points": 1000,
+  "image": "https://raw.githubusercontent.com/BHALEYART/scumbags-price-shield/main/price-shield.png",
+  "external_url": "http://scumbags.io/",
+  "edition": 0,
+  "attributes": [
+    {
+      "trait_type": "Token Flag",
+      "value": "DELIST"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/BHALEYART/scumbags-price-shield/main/price-shield.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4ejehx7PJVYpLcfivsshBTYsnvr1ni9TPHZGcCkRKBQb",
+        "share": 65
+      },
+      {
+        "address": "9j3pc3gtBDFc8nNPNHjKrVfVewfxbrFm4doVwFoVP5Bu",
+        "share": 25
+      },
+      {
+        "address": "HN2VxERebRDfAL8S8WCHW96mfNY6XpTvbqDiuLpckmLm",
+        "share": 5
+      },
+      {
+        "address": "2L5XkJdPfhsetVCvdSuxrS9bW73fAbBrsNJuTJxA75C3",
+        "share": 5
+      }
+    ]
+  }
+}
