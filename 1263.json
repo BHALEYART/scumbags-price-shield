@@ -3,7 +3,7 @@
   "symbol": "SCUMBAGS",
   "description": "A generative collection of 3,000 Unique Money Bag Characters",
   "seller_fee_basis_points": 1000,
-  "image": "image.png",
+  "image": "https://raw.githubusercontent.com/BHALEYART/scumbags-price-shield/main/1263.png",
   "external_url": "http://scumbags.io/",
   "edition": 1263,
   "attributes": [
@@ -51,7 +51,7 @@
   "properties": {
     "files": [
       {
-        "uri": "image.png",
+        "uri": "https://raw.githubusercontent.com/BHALEYART/scumbags-price-shield/main/1263.png",
         "type": "image/png"
       }
     ],
